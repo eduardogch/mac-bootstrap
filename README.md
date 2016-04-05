@@ -11,3 +11,6 @@ https://github.com/powerline/fonts
 
 ### oh my zsh
 https://gist.github.com/kevin-smets/8568070
+
+### Install Homebrew
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
